@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: doc_viwer
-# email: yixin.liu@yale.edu
+title: doc_viewer
 description: >- # this means to ignore newlines until "baseurl:"
-  doc_viwer
-baseurl: "/doc_viwer" # the subpath of your site, e.g. /blog
+  doc_viewer
+baseurl: "/doc_viewer" # the subpath of your site, e.g. /blog
 url: "https://yale-lily.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
